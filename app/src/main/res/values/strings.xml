@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Letter Recognition</string>
+    <string name="type">Letter Type</string>
+    <string name="input_letter"></string>
+    <string name="submit">Submit</string>
+
+</resources>
